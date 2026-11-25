@@ -1,0 +1,96 @@
+{
+    "folders": [
+        {
+            "name": "01_Blinky_LED",
+            "path": "01_Blinky_LED"
+        },
+        {
+            "name": "02_Switch_GPIO",
+            "path": "02_Switch_GPIO"
+        },
+        {
+            "name": "03_ADC",
+            "path": "03_ADC"
+        },
+        {
+            "name": "04_PWM_Fade_LED",
+            "path": "04_PWM_Fade_LED"
+        },
+        {
+            "name": "05_ADC_PWM",
+            "path": "05_ADC_PWM"
+        },
+        {
+            "name": "05_ADC_PWM_2V",
+            "path": "05_ADC_PWM_2V"
+        },
+        {
+            "name": "06_Emulate_EEPROM",
+            "path": "06_Emulate_EEPROM"
+        },
+        {
+            "name": "07_UART_Polling",
+            "path": "07_UART_Polling"
+        },
+        {
+            "name": "08_UART_Interrupt",
+            "path": "08_UART_Interrupt"
+        },
+        {
+            "name": "09_SPI_Polling",
+            "path": "09_SPI_Polling"
+        },
+        {
+            "name": "10_SPI_Interrupt",
+            "path": "10_SPI_Interrupt"
+        },
+        {
+            "name": "11_I2C_Polling",
+            "path": "11_I2C_Polling"
+        },
+        {
+            "name": "12_I2C_Interrupt",
+            "path": "12_I2C_Interrupt"
+        },
+        {
+            "name": "13_Dual_Core",
+            "path": "13_Dual_Core"
+        },
+        {
+            "name": "14_Dual_Core_LCD_16_2",
+            "path": "14_Dual_Core_LCD_16_2"
+        },
+        {
+            "name": "mtb_shared",
+            "path": "mtb_shared"
+        },
+        {
+            "name": ".github (skills/instructions)",
+            "path": ".github"
+        },
+        {
+            "name": ".claude (skills link)",
+            "path": ".claude"
+        }
+    ],
+    "settings": {
+        "modustoolbox.toolsPath": "C:/Users/adrian/ModusToolbox/tools_3.9",
+        "cortex-debug.armToolchainPath": "C:/Users/adrian/Infineon/Tools/mtb-gcc-arm-eabi/14.2.1/gcc/bin",
+        "cortex-debug.openocdPath": "${config:modustoolbox.toolsPath}/../../../../Infineon/Tools/ModusToolboxProgtools-2.0/openocd/bin/openocd.exe",
+        "cortex-debug.JLinkGDBServerPath.windows": "C:/Program Files/SEGGER/JLink/JLinkGDBServerCL.exe",
+        "cortex-debug.JLinkGDBServerPath.osx": "/Applications/SEGGER/JLink/JLinkGDBServerCLExe",
+        "cortex-debug.JLinkGDBServerPath.linux": "JLinkGDBServerCLExe",
+        "C_Cpp.intelliSenseEngine": "disabled",
+        "clangd.detectExtensionConflicts": false,
+        "modusToolbox-ai.suppressStartupChecks": true,
+        "modusToolbox-ai.autoRefreshAgentInstructions": true,
+        "modusToolbox-ai.autoRefreshModusDocs": true
+    },
+    "extensions": {
+        "recommendations": [
+            "marus25.cortex-debug",
+            "ms-vscode.cpptools",
+            "dan-c-underwood.arm"
+        ]
+    }
+}

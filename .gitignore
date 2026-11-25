@@ -1,0 +1,7 @@
+/mtb_shared/
+# Local link to the shared skills (see .claude/README.md) - never commit the linked content
+/.claude/skills/
+*/.modustoolbox/*
+.ninja_log
+*.mtbqueryapi
+**/__pycache__/**
